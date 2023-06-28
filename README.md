@@ -1,5 +1,3 @@
-
-<img src="https://github.com/vidkazan/Pong/assets/33557107/66b7d5d4-a430-43c1-b117-41607b4be0a3" height=65 width=500/>
 <h1> Pong - final project of the Ecole 42 commom core curriculum</h1>
 <div>
   <h3>Matchmaking system and game</h3>
